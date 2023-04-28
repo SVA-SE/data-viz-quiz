@@ -1,7 +1,7 @@
 # About the dataset in this directory
 
 The file "Avian_Influenza.csv" is a dataset containing the wild birds
-tested for Avian influenza from 2016-01-01 and forward at SVA. It is
+tested for Avian influenza from 2017-01-01 and forward at SVA. It is
 encoded in UTF-8 and has 6 columns separated by ";". The columns are
 as follows:
 
